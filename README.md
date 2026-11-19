@@ -1,3 +1,5 @@
+> **AI agent instructions (organization-wide):** Before working on code, issues, or pull requests, read and follow the [organization `AGENTS.md`](https://github.com/atto-lang/.github/blob/main/AGENTS.md), including its **merge-first stealth-development policy**. Honor any repository-local `AGENTS.md`, explicit holds, and GitHub-enforced rules.
+
 # AttoLang Native LLVM backend
 
 > **Security integration (draft):** [AttoLang LLVM wasm32 actor → Volucro authenticated Wasmi Store](docs/ATTO_VOLUCRO_WASM_ACTOR_ISOLATION_V1.md) supplies a real source-to-Wasm-to-Volucro smoke harness, exact-head provenance checks, and documented security gaps. Not production native tenant isolation.
