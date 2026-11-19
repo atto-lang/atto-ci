@@ -1,3 +1,5 @@
+> **AI agent instructions (organization-wide):** Before working on code, issues, or pull requests, read and follow the [organization `AGENTS.md`](https://github.com/ores-truffle-oreslang/.github/blob/main/AGENTS.md), including its **merge-first stealth-development policy**. Honor any repository-local `AGENTS.md`, explicit holds, and GitHub-enforced rules.
+
 # AttoLang .NET Native AOT backend
 
 AttoLang is the current public language name (formerly Oreslang). This repository remains an independent CIL compiler plus .NET Native AOT prototype. Its implemented subset remains limited to checked signed-i64 scalar arithmetic; this branding update does not imply full-language parity. Keep existing `Ores.Net.*` project identities, `oresnet` command, generated artifact names and `.ores` fixtures stable.
