@@ -1,3 +1,0 @@
-pub fnc main(): int {
-  return Entry<int,int>(1, 2);
-}

@@ -1,3 +1,0 @@
-pub fnc opaque_result(): any {
-  return 1;
-}

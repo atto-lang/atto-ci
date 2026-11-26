@@ -1,3 +1,0 @@
-// expect: TYPE_ONLY_INCOMPLETE_DEFINITION
-type Count;
-pub fnc main(): int { return 42; }

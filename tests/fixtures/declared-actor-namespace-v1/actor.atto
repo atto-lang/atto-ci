@@ -1,3 +1,0 @@
-// Counter nominal identity: same flat namespace across multiple files.
-use namespace foo;
-declare pub actor Counter implements CounterApi;

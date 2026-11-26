@@ -1,3 +1,0 @@
-pub fnc tenant_step(int old): int {
-    return old;
-}

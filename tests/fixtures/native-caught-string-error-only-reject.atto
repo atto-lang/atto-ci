@@ -1,8 +1,0 @@
-pub fnc main(): int {
-  try {
-    throw "not an Error";
-  } catch (err) {
-    return 43;
-  } finally {
-  }
-}

@@ -1,3 +1,0 @@
-pub fnc main(): int {
-    return 42 with {x => 1};
-}

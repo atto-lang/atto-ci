@@ -1,4 +1,0 @@
-// Must reject: Option.flatten removes only one nested Option.
-fnc invalid(Option<Option<Option<int>>> value): Option<int> {
-  return value.flatten();
-}

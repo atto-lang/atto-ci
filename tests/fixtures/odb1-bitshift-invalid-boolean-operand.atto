@@ -1,2 +1,0 @@
-// Must fail type admission before any LLVM IR is emitted.
-pub fnc main(): int { return true >> 8; }

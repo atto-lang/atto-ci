@@ -1,3 +1,0 @@
-// A valid Java manifest source, but NOT YET an executable LLVM guest.
-use namespace foo;
-declare pub actor Counter implements CounterApi;

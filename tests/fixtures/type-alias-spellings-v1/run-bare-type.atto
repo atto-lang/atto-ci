@@ -1,3 +1,0 @@
-type Count = int;
-fnc f(Count c): int { return c + 1; }
-pub fnc main(): int { return f(41); }

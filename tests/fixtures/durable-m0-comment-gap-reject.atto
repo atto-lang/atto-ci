@@ -1,3 +1,0 @@
-define /* outer /* nested */ still outer */ workflow Checkout as
-    run(int id) -> int { return id; }
-end

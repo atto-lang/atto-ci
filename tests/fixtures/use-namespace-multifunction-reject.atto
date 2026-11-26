@@ -1,3 +1,0 @@
-use namespace foo;
-pub fnc helper(): int { return 42; }
-pub fnc main(): int { return helper(); }

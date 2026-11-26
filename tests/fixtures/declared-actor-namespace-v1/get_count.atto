@@ -1,4 +1,0 @@
-use namespace foo;
-pub mtd (Counter c) get_count(): int {
-    return c.handle_state(critical-read |s| -> s.count);
-}

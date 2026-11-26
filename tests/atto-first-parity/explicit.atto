@@ -1,5 +1,0 @@
-import module Math from "./math.atto";
-
-pub fnc main(): int {
-  return Math.add(40);
-}

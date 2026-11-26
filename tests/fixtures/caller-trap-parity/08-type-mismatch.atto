@@ -1,5 +1,0 @@
-// ATTO-TRAP-V1-08: compile-time type failure, no implicit Option flatten.
-pub fnc main(): int {
-  val int value = trap (40 + 2);
-  return value;
-}

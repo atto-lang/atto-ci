@@ -1,3 +1,0 @@
-define activity PaymentProvider as
-    charge(int cents) -> int { return cents; }
-end

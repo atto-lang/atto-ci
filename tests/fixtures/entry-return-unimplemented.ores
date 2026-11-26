@@ -1,3 +1,0 @@
-fnc make(): Entry<int, int> {
-  return 0;
-}

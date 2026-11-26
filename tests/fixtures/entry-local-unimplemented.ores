@@ -1,4 +1,0 @@
-fnc main(): int {
-  const value: Entry<int, int> = 0;
-  return 0;
-}

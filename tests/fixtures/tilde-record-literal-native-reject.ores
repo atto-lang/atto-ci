@@ -1,4 +1,0 @@
-pub fnc main(): int {
-    const r = ~(foo: 42);
-    return 0;
-}

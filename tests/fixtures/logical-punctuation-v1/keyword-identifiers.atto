@@ -1,8 +1,0 @@
-pub fnc main(): int {
-  bool a = true;
-  bool b = false;
-  bool and = a && !b;
-  bool or = a || b;
-  bool xor = a ^^ b;
-  return (and && or && xor) ? 42 : 7;
-}

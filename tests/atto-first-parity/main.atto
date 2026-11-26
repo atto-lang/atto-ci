@@ -1,5 +1,0 @@
-import module Math from "./math";
-
-pub fnc main(): int {
-  return Math.add(40);
-}

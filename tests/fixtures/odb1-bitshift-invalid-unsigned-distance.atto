@@ -1,5 +1,0 @@
-// Unsigned right shift must share 0..63 distance checking.
-pub fnc main(): int {
-  let int invalid = 9223372036854775807;
-  return -1 >>> invalid;
-}

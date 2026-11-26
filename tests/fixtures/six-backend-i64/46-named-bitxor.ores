@@ -1,3 +1,0 @@
-// 46: named-bitxor
-// Candidate scalar exactness fixture; no compiler-backed execution claimed.
-pub fnc main(): int { return Integer.bitXor(40, 2); }

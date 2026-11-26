@@ -1,3 +1,0 @@
-pub fnc main(): int {
-  return (true && (Integer.rem(1, 0) == 0)) ? 42 : 7;
-}

@@ -1,2 +1,0 @@
-// Namespace spelling is not permission for scalar/dynamic lowering.
-pub fnc main(): int { return Actor::pipe(Reader(), Writer()); }

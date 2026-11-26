@@ -1,3 +1,0 @@
-// expect: native generator v1 requires
-fnc gen* values(): Iterator<int> { yield 1; }
-pub fnc main(): int { return 42; }

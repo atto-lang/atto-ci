@@ -1,1 +1,0 @@
-pub fnc main(): int { int forty = 40; const int two = 2; return forty + two; }

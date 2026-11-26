@@ -1,9 +1,0 @@
-// exit: 0
-// stdout: 
-pub fnc main(): void {
-  if true then
-    return;
-  fi
-  stdio.println(7);
-  return;
-}

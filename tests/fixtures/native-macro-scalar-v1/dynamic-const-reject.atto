@@ -1,6 +1,0 @@
-define macro literal(Const<int> value) -> Syntax<Expr> {
-    return quote(value);
-}
-pub fnc main() -> int {
-    return literal!(const runtime_value);
-}

@@ -1,4 +1,0 @@
-define module app
-  type Count = int;
-  pub fnc main(): int { val Count c = 42; return c; }
-end

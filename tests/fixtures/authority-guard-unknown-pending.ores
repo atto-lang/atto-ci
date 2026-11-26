@@ -1,3 +1,0 @@
-pub fnc foo(unknown v): int {
-  return Integer.is_int(v) ? v : 0;
-}

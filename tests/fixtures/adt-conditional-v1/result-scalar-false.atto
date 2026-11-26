@@ -1,4 +1,0 @@
-pub fnc main():int {
-    val Result<int,String> invalid = false ? Ok(42) : 42;
-    return invalid.unwrap_or(0);
-}

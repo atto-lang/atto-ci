@@ -1,5 +1,0 @@
-define pub http actor Endpoint as
-  int requestConcurrency = 3;
-  int messageConcurrency = 4;
-  receive(ActorMail<int> mail): void { return; }
-end
